@@ -2,29 +2,29 @@
 
 ## 1. 自分の人生の流れ
 
-- [生まれた場所・年](life_story/birth.md)
-- [子どもの頃の思い出](life_story/childhood_memories.md)
-- [進学や転校の経験](life_story/education.md)
-- [これまでの大きな出来事や転機](life_story/major_events.md)
+- [生まれた場所・年](english_practice/life_story/birth.md)
+- [子どもの頃の思い出](english_practice/life_story/childhood_memories.md)
+- [進学や転校の経験](english_practice/life_story/education.md)
+- [これまでの大きな出来事や転機](english_practice/life_story/major_events.md)
 
 ## 2. トピック別の自己紹介
 
-- [学校（高校・大学など）で勉強したこと](topics/education.md)
-- [今やっている仕事の内容](topics/current_job.md)
-- [これまでの職歴や転職の経緯](topics/career_history.md)
-- [人生のターニングポイントになった出来事](topics/turning_points.md)
-- [大事にしている価値観](topics/values.md)
-- [将来やりたいこと](topics/future_goals.md)
-- [今悩んでいること](topics/current_concerns.md)
-- [好きなこと、趣味](topics/hobbies.md)
-- [休日の過ごし方](topics/weekend_activities.md)
-- [旅行や食の好み](topics/travel_food.md)
-- [今住んでいる場所、過去に住んだ場所](topics/living_places.md)
-- [家族やパートナーについて](topics/family.md)
-- [友達について](topics/friends.md)
-- [好きな場所や人に紹介したい場所](topics/favorite_places.md)
-- [日本の良いと思う点・問題だと思う点](topics/japan_opinions.md)
-- [英語を勉強することになったきっかけ](topics/english_motivation.md)
+- [学校（高校・大学など）で勉強したこと](english_practice/topics/education.md)
+- [今やっている仕事の内容](english_practice/topics/current_job.md)
+- [これまでの職歴や転職の経緯](english_practice/topics/career_history.md)
+- [人生のターニングポイントになった出来事](english_practice/topics/turning_points.md)
+- [大事にしている価値観](english_practice/topics/values.md)
+- [将来やりたいこと](english_practice/topics/future_goals.md)
+- [今悩んでいること](english_practice/topics/current_concerns.md)
+- [好きなこと、趣味](english_practice/topics/hobbies.md)
+- [休日の過ごし方](english_practice/topics/weekend_activities.md)
+- [旅行や食の好み](english_practice/topics/travel_food.md)
+- [今住んでいる場所、過去に住んだ場所](english_practice/topics/living_places.md)
+- [家族やパートナーについて](english_practice/topics/family.md)
+- [友達について](english_practice/topics/friends.md)
+- [好きな場所や人に紹介したい場所](english_practice/topics/favorite_places.md)
+- [日本の良いと思う点・問題だと思う点](english_practice/topics/japan_opinions.md)
+- [英語を勉強することになったきっかけ](english_practice/topics/english_motivation.md)
 
 ## 使用方法
 
